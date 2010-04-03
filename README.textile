@@ -1,0 +1,7 @@
+h3. Overview
+
+This is a working example of a chat service written using the .NET framework and WCF.  It is intended as a companion to my "WCF Tutorial":http://dongola7.github.com/2010/04/02/wcf-tutorial.html blog post.
+
+h3. Running the example
+
+Download the code from the GitHub repository.  Open the solution in VS 2008 and build the solution.  The @bin\Debug@ or @bin\Release@ directory will contain both the @ChatServer@ and @ChatClient@ executables.  Try executing a single server ad two clients on your system to see everything in action.
